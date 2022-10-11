@@ -1326,19 +1326,19 @@
 ;;;
 
 (deffacts test-rolls
-    (test-roll (name enlistment) (rolls 2))
-    (test-roll (name draft) (rolls 2))
+;;;    (test-roll (name enlistment) (rolls 2))
+;;;    (test-roll (name draft) (rolls 2))
 ;;;    (test-roll (name skill-table) (rolls 1 1 1 1 1 1 1 1 1 1 1 1))
 ;;;    (test-roll (name skill-row) (rolls 4 4 4 4 4 4 4 4 4 4 4 4 4))
 ;;;    (test-roll (name commission) (rolls 12))
 ;;;    (test-roll (name promotion) (rolls 12 12 12 12 12 12))
 ;;;    (test-roll (name survival) (rolls 12 12 12 12 12 12 12))
-    (test-roll (name muster-roll material) (rolls 4 5 4 5 4 5))
+;;;    (test-roll (name muster-roll material) (rolls 4 5 4 5 4 5))
 ;;;    (test-roll (name reenlist) (rolls 11 11 11 11 11 11))
 ;;;    (test-roll (name "Strength") (rolls 2))
 ;;;    (test-roll (name "Endurance") (rolls 2))
 ;;;    (test-roll (name "Dexterity") (rolls 2))
 ;;;    (test-roll (name "Intelligence") (rolls 2))
-    (test-roll (name reenlist) (rolls 11 11 11 11 11 11))
+;;;    (test-roll (name reenlist) (rolls 11 11 11 11 11 11))
 )
 
